@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RefactorNameChange
+namespace CSharpLabReverseWord
 {
     class Program
     {
